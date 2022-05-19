@@ -1,6 +1,8 @@
 # dumps
 Current dumps CSGO(19/05/2022)
 
+"find sm_dump"
+
 "sm_dump_admcache"                                                               - Dumps the admin cache for debugging
 
 "sm_dump_classes"                                                                - Dumps the class list as a text file
