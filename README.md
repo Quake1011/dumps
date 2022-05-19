@@ -1,5 +1,5 @@
 # dumps
-Current dumps CSGO
+Current dumps CSGO(19/05/2022)
 
 "sm_dump_admcache"                                                               - Dumps the admin cache for debugging
 
