@@ -9,5 +9,6 @@ Current dumps CSGO
 
 "sm_dump_handles"                                                                - Dumps Handle usage to a file for finding Handle leaks
 
-"sm_dump_netprops"                                                               - Dumps the networkable property table as a text file                                                
+"sm_dump_netprops"                                                               - Dumps the networkable property table as a text file                                   
+
 "sm_dump_teprops"                                                                - Dumps tempentity props to a file
