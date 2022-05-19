@@ -1,9 +1,16 @@
 # dumps
 Current dumps CSGO
+
 "sm_dump_admcache"                                                               - Dumps the admin cache for debugging
+
 "sm_dump_classes"                                                                - Dumps the class list as a text file
+
 "sm_dump_datamaps"                                                               - Dumps the data map list as a text file
+
 "sm_dump_handles"                                                                - Dumps Handle usage to a file for finding Handle leaks
+
 "sm_dump_netprops"                                                               - Dumps the networkable property table as a text file
+
 "sm_dump_stringtable"                                                           
+
 "sm_dump_teprops"                                                                - Dumps tempentity props to a file
