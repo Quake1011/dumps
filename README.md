@@ -1,4 +1,7 @@
 # dumps
+Current dumps CS2(26/03/23)
+
+
 Current dumps CSGO(19/05/2022)
 
 "find sm_dump"
