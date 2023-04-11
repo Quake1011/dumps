@@ -749,8 +749,6 @@ CDebugOverlayGameSystem
 CDebugOverlayScriptHelper
 CSource1LegacyGameEventGameSystem
 CGameJobSystem
-CLIENTSIDE
-CLIENTSTUB
 CGameParticleManagerSystem
 CEntityComponent
 CSaveMemory
@@ -930,8 +928,6 @@ CPointProximitySensor
 CPointAngularVelocitySensor
 CInstancedSceneEntity
 CPointVelocitySensor
-CLOSED
-CLOSING
 CAISound
 CSoundOpvarSetEntity
 CSoundEnvelope
@@ -982,7 +978,6 @@ CTriggerActiveWeaponDetect
 CInfoLandmark
 CTriggerPhysics
 CVariantDefaultAllocator
-CRUSH
 CVariantBase
 CAttributeManager
 CItemGeneration
